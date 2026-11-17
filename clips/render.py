@@ -148,6 +148,7 @@ def build_ass(words, title, duration, w, h) -> str:
     cap_m = Measure(STYLE["caption_font_file"], L["caption_size"])
     tit_m = Measure(STYLE["title_font_file"], L["title_size"])
     shadow = max(2, L["caption_size"] // 22)
+    outline = L["caption_size"] * STYLE.get("caption_outline", 0.0)
     head = f"""[Script Info]
 ScriptType: v4.00+
 PlayResX: {w}
@@ -157,7 +158,7 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Caption,{cap_font},{L['caption_size']},{ass_color(c['white'])},{ass_color(c['white'])},{ass_color('#000000')},{ass_color('#000000', 0x40)},0,0,0,0,100,100,0,0,1,0,{shadow},5,0,0,0,1
+Style: Caption,{cap_font},{L['caption_size']},{ass_color(c['white'])},{ass_color(c['white'])},{ass_color('#000000')},{ass_color('#000000', 0x40)},0,0,0,0,100,100,0,0,1,{outline:.1f},{shadow},5,0,0,0,1
 Style: Title,{title_font},{L['title_size']},{ass_color(c['white'])},{ass_color(c['white'])},{ass_color('#000000')},{ass_color('#000000')},0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Box,{cap_font},10,{ass_color('#000000')},{ass_color('#000000')},{ass_color('#000000')},{ass_color('#000000', 0xFF)},0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 
@@ -202,6 +203,14 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
             x += wd + space
         c_start = chunk[0]["s"]
         c_end = chunk[-1]["e"] + 0.12
+        if STYLE.get("caption_box", True):
+            pw = total + L["caption_size"] * 0.75
+            ph = L["caption_size"] * 1.12
+            ev.append(
+                f"Dialogue: 0,{ass_time(c_start)},{ass_time(c_end)},Box,,0,0,0,,"
+                f"{{\\an5\\pos({cx:.0f},{cy:.0f})\\1c{ass_color(STYLE['caption_box_color'])}"
+                f"\\1a&H{STYLE['caption_box_alpha']:02X}&\\p1}}{rounded_rect(pw, ph, L['caption_size'] * 0.24)}{{\\p0}}"
+            )
         for j, t in enumerate(texts):
             ev.append(
                 f"Dialogue: 2,{ass_time(c_start)},{ass_time(c_end)},Caption,,0,0,0,,"

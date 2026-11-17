@@ -55,6 +55,10 @@
     "highlight_color": "#009dfd",
     "text_y_offset": 0.0,
     "broll_seconds": 3.5,
-    "broll_dim": 0.0
+    "broll_dim": 0.0,
+    "caption_box": false,
+    "caption_box_color": "#000000",
+    "caption_box_alpha": 64,
+    "caption_outline": 0.06
   }
 }
