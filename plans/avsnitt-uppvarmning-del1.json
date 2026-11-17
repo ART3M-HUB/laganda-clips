@@ -1,0 +1,170 @@
+{
+ "episode": "avsnitt-uppvarmning",
+ "audio": "work/ep1/ep1.mp3",
+ "words": "work/ep1/words_partial.json",
+ "clips": [
+  {
+   "id": "01",
+   "title": "Uppvärmningen är lagets mest underskattade verktyg",
+   "broll": [
+    59,
+    55,
+    34,
+    57,
+    127,
+    60,
+    56,
+    54,
+    61,
+    49,
+    12,
+    1,
+    3,
+    9,
+    126,
+    135,
+    37,
+    92
+   ],
+   "fix": {
+    "Jim": "gym",
+    "Goer,": "goer,",
+    "chans": "chad.",
+    "chadinan,": "chadinna,",
+    "uppvärmningen.": "uppvärmningar."
+   },
+   "posts": {
+    "instagram": "De 15 minuterna innan träning är kanske de mest underskattade i hela veckan 🔥 Precis som övningsordningen spelar roll i gymmet, spelar uppvärmningen roll för allt som kommer efter.\n\nHur ser er uppvärmning ut i dag? 👇\n\n#fotboll #uppvärmning #fysträning #ungdomsfotboll #tränare #laganda",
+    "facebook": "Ett lag tränar kanske 90 minuter 3–4 gånger i veckan. Om uppvärmningen gör att varje pass blir bara några procent bättre – fysiskt, mentalt och i fokus – blir effekten stor över en hel säsong.\n\nI senaste poddavsnittet pratar vi om varför uppvärmningen är ett av de mest underanvända verktygen i fotbollen. Hur jobbar ni med uppvärmning i ert lag?",
+    "linkedin": "Uppvärmningen är ett av de mest underanvända verktygen i lagidrott.\n\nI gymmet vet de flesta att övningsordningen påverkar resultatet – övningen efter blir bättre eller sämre beroende på vad som kom före. Samma logik gäller de första 15 minuterna av varje träning.\n\nFör tränare och klubbar: hur mycket av er planering lägger ni på uppvärmningen jämfört med resten av passet?\n\n#fysträning #fotboll #tränare #idrottsutveckling",
+    "x": "De 15 minuterna innan träning är de mest underskattade i hela veckan. Övningsordning spelar roll i gymmet – och uppvärmningen spelar roll för allt som kommer efter. #fotboll #fysträning"
+   },
+   "start": 203.16,
+   "end": 264.57
+  },
+  {
+   "id": "02",
+   "title": "Gå inte bara igenom uppvärmningen",
+   "broll": [
+    37,
+    92,
+    130,
+    72,
+    163,
+    153,
+    36,
+    179,
+    131,
+    156,
+    23,
+    74,
+    171
+   ],
+   "fix": {
+    "skidor": "skit",
+    "lojd": "lojt",
+    "skanske": "ska kanske",
+    "broadshams": "broad jumps"
+   },
+   "posts": {
+    "instagram": "\"Man går bara igenom rörelsen och snackar lite\" – låter det bekant? 😅 Ordentligt varm och svettig = bättre sprinter och hopp efteråt. Uppvärmningen måste trappas upp.\n\n#fotboll #uppvärmning #fysträning #ungdomsfotboll #tränare #laganda",
+    "facebook": "Många uppvärmningar blir att man går igenom rörelserna och snackar lite. Men när spelarna är ordentligt varma och redo presterar de mycket bättre i sprinterna och hoppen som kommer sen. Statiskt, dynamiskt och balans har sin plats – men det måste finnas en upptrappning.\n\nKänner du igen dig?",
+    "linkedin": "En vanlig miss i klubbsammanhang: uppvärmningen blir en transportsträcka där spelarna går igenom rörelser utan intensitet.\n\nStatiska och dynamiska övningar har sin plats, men utan en tydlig upptrappning blir spelarna inte redo för det explosiva arbetet som följer.\n\n#fysträning #fotboll #tränare",
+    "x": "Uppvärmning där man bara går igenom rörelserna = spelare som inte är redo. Det måste finnas en upptrappning. #fotboll #fysträning"
+   },
+   "start": 554.34,
+   "end": 600.21
+  },
+  {
+   "id": "03",
+   "title": "Basketlaget spelade fotboll som uppvärmning",
+   "broll": [
+    1,
+    94,
+    9,
+    95,
+    12,
+    96,
+    3,
+    106,
+    126,
+    108,
+    90,
+    49,
+    99
+   ],
+   "fix": {
+    "Mannarsson,": "",
+    "kroppstematuren.": "kroppstemperaturen.",
+    "-touch": "touch"
+   },
+   "posts": {
+    "instagram": "Tre amerikaner som aldrig spelat fotboll – och den bästa uppvärmningen vi sett 😂⚽🏀 Höjd kroppstemperatur, rörliga leder, aktiverade muskler och ett påslaget nervsystem. RAMP i praktiken!\n\n(Men kanske inte en hel säsong.)\n\n#fotboll #uppvärmning #fysträning #ungdomsfotboll #tränare #laganda",
+    "facebook": "Kan man spela fotboll som uppvärmning till basket? Vi testade. Kroppstemperaturen upp, lederna rörliga, musklerna aktiverade och nervsystemet igång – allt som en bra uppvärmning ska ge. Inte något man gör varje pass, men ett bra exempel på att principen är viktigare än metoden.",
+    "linkedin": "RAMP – Raise, Activate, Mobilise, Potentiate – kan uppnås på många sätt.\n\nEtt exempel: att låta ett basketlag spela fotboll som uppvärmning. Höjd kroppstemperatur, rörelse i lederna, aktiverad muskulatur och ett potentierat nervsystem. Inte en metod för en hel säsong, men en påminnelse om att principen styr och metoden kan varieras.\n\n#fysträning #tränare #idrottsutveckling",
+    "x": "Basketlaget spelade fotboll som uppvärmning. Resultat: höjd kroppstemperatur, rörliga leder, aktiverade muskler, igång nervsystem. RAMP i praktiken. #fysträning"
+   },
+   "start": 620.82,
+   "end": 661.83
+  },
+  {
+   "id": "04",
+   "title": "Princip över metod – alla dagar i veckan",
+   "broll": [
+    168,
+    50,
+    52,
+    134,
+    188,
+    189,
+    17,
+    0,
+    62,
+    58,
+    169,
+    185
+   ],
+   "fix": {
+    "övermetod": "över metod",
+    "lager.": "lag."
+   },
+   "posts": {
+    "instagram": "Princip över metod. Alla dagar i veckan. 💡 Metoden kan anpassas efter person, lag, väder och hall – principen är densamma. Bygger du kring principer har du en fast grund.\n\n#fotboll #uppvärmning #fysträning #ungdomsfotboll #tränare #laganda",
+    "facebook": "Metoden kan anpassas efter spelarna, utrustningen, vädret eller hallen. Principen är densamma. Det är därför kunskap om grundprinciperna gör så stor skillnad – oavsett om du är ledare för ett ungdomslag eller fystränare på elitnivå.",
+    "linkedin": "Princip över metod.\n\nMetoden kan och bör anpassas efter person, lag, utrustning, väder och anläggning. Principerna är desamma. Den som har en stabil grund i principerna kan sedan vara kreativ i metodvalet – utan att tappa riktning.\n\n#ledarskap #fysträning #tränare #idrottsutveckling",
+    "x": "Princip över metod, alla dagar i veckan. Metoden anpassas efter lag, väder och hall – principen är densamma. #fysträning #tränare"
+   },
+   "start": 675.92,
+   "end": 714.61
+  },
+  {
+   "id": "05",
+   "title": "Exponera spelarna för kaos redan i uppvärmningen",
+   "broll": [
+    26,
+    65,
+    87,
+    97,
+    85,
+    99,
+    86,
+    100,
+    101,
+    103,
+    107,
+    109,
+    143,
+    178
+   ],
+   "fix": {},
+   "posts": {
+    "instagram": "En liten knuff när du ska avsluta – kan du fortfarande leverera? 💥 Elitens elit avslutar ändå åtta gånger av tio. Uppvärmningen är ett enkelt sätt att exponera spelarna för fler och annorlunda situationer.\n\n#fotboll #uppvärmning #fysträning #ungdomsfotboll #tränare #laganda",
+    "facebook": "Som försvarare fick man alltid höra: ge honom en liten knuff, det stör. Men de bästa gör fortfarande jobbet. Därför gillar vi träning som utsätter spelarna för störningar och nya situationer – och uppvärmningen är ett enkelt ställe att börja.",
+    "linkedin": "Matchen är kaotisk: störningar, närkamper, trötthet och mycket information samtidigt. De bästa spelarna levererar ändå.\n\nUppvärmningen är ett enkelt och tidseffektivt ställe att exponera spelarna för fler och annorlunda stimuli – balans, koordination och beslut under störning.\n\n#fotboll #fysträning #tränare",
+    "x": "En liten knuff när du ska avsluta. Elitens elit levererar ändå 8 av 10. Uppvärmningen = enkelt sätt att exponera spelarna för kaos. #fotboll"
+   },
+   "start": 979.38,
+   "end": 1000.87
+  }
+ ]
+}

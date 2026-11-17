@@ -1,0 +1,231 @@
+{
+ "episode": "avsnitt-uppvarmning",
+ "audio": "work/ep1/ep1.mp3",
+ "words": "work/ep1/words.json",
+ "clips": [
+  {
+   "id": "06",
+   "title": "När allt blir likadant tappar spelarna glädjen",
+   "broll": [
+    59,
+    94,
+    95,
+    1,
+    56,
+    96,
+    49,
+    108,
+    127,
+    12,
+    60,
+    57
+   ],
+   "fix": {
+    "emotionality,": "emotionality,"
+   },
+   "posts": {
+    "instagram": "Samma uppvärmning, samma träning, samma match… 🔁 När allt blir likadant tappar man kärleken till sporten. Ge spelarna nya utmaningar – glädjen spelar roll för prestationen.\n\n#fotboll #uppvärmning #fysträning #ungdomsfotboll #tränare #laganda",
+    "facebook": "Alla börjar spela för att det är kul. Men när uppvärmningarna, träningarna och matcherna blir likadana vecka efter vecka försvinner glädjen. Hur hittar ni variation i ert lag?",
+    "linkedin": "Monotoni är en underskattad risk i lagidrott. När uppvärmning, träning och match blir likadana tappar spelare engagemang – och engagemang och välmående hänger ihop med både prestation och skaderisk.\n\nAtt ibland ge spelarna en helt ny utmaning är inte slöseri med tid.\n\n#idrottsutveckling #tränare #fotboll",
+    "x": "Samma uppvärmning, samma träning, samma match. Då tappar spelarna kärleken till sporten. Variation är inte slöseri med tid. #fotboll #tränare"
+   },
+   "start": 1528.17,
+   "end": 1572.06
+  },
+  {
+   "id": "07",
+   "title": "En skada kan vara det bästa som händer en atlet",
+   "broll": [
+    41,
+    42,
+    77,
+    79,
+    120,
+    148,
+    173,
+    181,
+    4,
+    20
+   ],
+   "fix": {
+    "tidigarefixerar?": "tidigare fixerat?"
+   },
+   "posts": {
+    "instagram": "Kan en skada vara det bästa som händer en atlet? 🤔 Ny miljö, nya tankar, ny typ av träning – kanske är det att mönstret bryts som gör skillnaden.\n\nVad tror du? 👇\n\n#fotboll #uppvärmning #fysträning #ungdomsfotboll #tränare #laganda",
+    "facebook": "Ett välkänt fenomen inom idrottspsykologin: en skada kan vara bland det bästa som händer en atlet. Vår gissning är att mönstret bryts – ny miljö, nya tankar, ny träning. Har du varit med om det?",
+    "linkedin": "En skada kan vara bland det bästa som händer en atlet.\n\nVi är inga idrottspsykologer, men vår hypotes är att skadan bryter ett mönster: ny miljö, nya tankar och ny typ av träning. Frågan är om vi kan skapa samma effekt utan skadan.\n\n#idrottspsykologi #fysträning #tränare",
+    "x": "En skada kan vara det bästa som händer en atlet. Vår gissning: mönstret bryts – ny miljö, nya tankar, ny träning. #idrott"
+   },
+   "start": 1722.29,
+   "end": 1750.28
+  },
+  {
+   "id": "08",
+   "title": "Det sjätte sinnet som fystränare glömmer",
+   "broll": [
+    112,
+    36,
+    46,
+    47,
+    118,
+    113,
+    132,
+    72,
+    165,
+    186,
+    73
+   ],
+   "fix": {
+    "six": "sixth"
+   },
+   "posts": {
+    "instagram": "Proprioception – kroppens ”sjätte sinne” – skickar information i 80–120 meter per sekund 🧠⚡ Ändå tar vi inte hänsyn till det tillräckligt i fysträningen.\n\n#fotboll #uppvärmning #fysträning #ungdomsfotboll #tränare #laganda",
+    "facebook": "Visste du att informationen om var kroppen befinner sig – proprioception, det sjätte sinnet – är en av de snabbaste signalerna till hjärnan? Ändå pratas det sällan om det i fysträningen.",
+    "linkedin": "Proprioception – förmågan att veta var kroppen befinner sig i tid och rum – leds med 80–120 m/s. Det säger något om hur viktig informationen är för kroppen.\n\nÄndå får den liten plats i traditionell fysträning, som ofta fokuserar på snabbare, starkare och uthålligare.\n\n#fysträning #rörelse #idrottsvetenskap",
+    "x": "Kroppens sjätte sinne – proprioception – leds i 80–120 m/s. Ändå glömmer vi det i fysträningen. #fysträning"
+   },
+   "start": 2243.19,
+   "end": 2286.04
+  },
+  {
+   "id": "09",
+   "title": "Därför ska barn inte specialisera sig för tidigt",
+   "broll": [
+    95,
+    93,
+    48,
+    97,
+    106,
+    14,
+    19,
+    114,
+    99,
+    101,
+    104,
+    110
+   ],
+   "fix": {
+    "fem-sextio": "fem-sex"
+   },
+   "posts": {
+    "instagram": "Varför vill så många föräldrar att barnen börjar med gymnastik? 🤸 För att det är rörelseexponering i sin renaste form. Att låsa en sjuåring i en enda sport är tidig specialisering – inte en genväg.\n\n#fotboll #uppvärmning #fysträning #ungdomsfotboll #tränare #laganda",
+    "facebook": "Många elitidrottare har provat flera olika idrotter när de var unga. Att stoppa en sju-, åttaåring i en enda sport och hoppas att det blir en elitidrottare av det fungerar väldigt sällan. Rörelseexponering först!",
+    "linkedin": "Tidig specialisering är fortfarande vanligt i svensk barn- och ungdomsidrott.\n\nMen de som når längst har ofta provat många olika idrotter och rörelser. Gymnastik är ett tydligt exempel på bred rörelseexponering. Hur arbetar er klubb med bredd i de yngre åldrarna?\n\n#barnidrott #ungdomsidrott #idrottsutveckling",
+    "x": "Att låsa en sjuåring i en enda sport och hoppas på en elitidrottare vid 17 fungerar sällan. Rörelseexponering först. #barnidrott"
+   },
+   "start": 2476.03,
+   "end": 2519.86
+  },
+  {
+   "id": "10",
+   "title": "80 % sporten – men höj de andra 20",
+   "broll": [
+    3,
+    168,
+    9,
+    50,
+    12,
+    188,
+    126,
+    134,
+    1,
+    62,
+    60,
+    189
+   ],
+   "fix": {
+    "högerryttare": "högerytter"
+   },
+   "posts": {
+    "instagram": "80 % av träningen ska vara sporten ⚽ Men höjer du nivån på de andra 20 % – uppvärmning, styrka, rörelse – så går de 80 % också upp.\n\n#fotboll #uppvärmning #fysträning #ungdomsfotboll #tränare #laganda",
+    "facebook": "En mittback ska träna på att vara mittback – 80 % av tiden ska vara själva sporten. Men om vi höjer kvaliteten på de resterande 20 procenten så gynnas också de 80 procent som spelarna faktiskt bedöms på.",
+    "linkedin": "80/20 i lagidrott: 80 % av träningstiden ska vara själva sporten.\n\nPoängen med att höja kvaliteten på de återstående 20 procenten – uppvärmning, styrka och rörelse – är inte att de ska bli viktigare än sporten, utan att de 80 procenten blir bättre.\n\n#fotboll #fysträning #tränare",
+    "x": "80 % av träningen ska vara sporten. Höj kvaliteten på de andra 20 % så går de 80 % också upp. #fotboll #fysträning"
+   },
+   "start": 3275.67,
+   "end": 3323.26
+  },
+  {
+   "id": "11",
+   "title": "Uppvärmningen visar hur dina spelare mår",
+   "broll": [
+    56,
+    57,
+    55,
+    54,
+    127,
+    59,
+    61,
+    49,
+    60,
+    1
+   ],
+   "fix": {
+    "Träningarna": "träningarna"
+   },
+   "posts": {
+    "instagram": "En lekfull uppvärmning gör mer än att värma upp 🙌 Du ser vem som är trött, vem som haft en tung dag – och kan fånga upp spelaren innan träningen ens börjat.\n\n#fotboll #uppvärmning #fysträning #ungdomsfotboll #tränare #laganda",
+    "facebook": "När uppvärmningen är lite mer lekfull ser du som tränare direkt vem som är trött eller inte riktigt är sig själv i dag. Ett enkelt ”hur är det med dig?” kan göra stor skillnad. Ringar på vattnet.",
+    "linkedin": "Uppvärmningen är också ett verktyg för ledarskap.\n\nNär den är lite mer lekfull ser tränaren snabbt vilka spelare som är trötta eller har det tufft utanför planen – och kan fånga upp dem innan passet. Det är vad vi menar med att höja lägstanivån.\n\n#ledarskap #tränare #ungdomsidrott",
+    "x": "En lekfull uppvärmning visar vem som är trött eller haft en tung dag – innan träningen ens börjat. #tränare #fotboll"
+   },
+   "start": 3673.65,
+   "end": 3710.6
+  },
+  {
+   "id": "12",
+   "title": "Min go-to i uppvärmningen: två och två",
+   "broll": [
+    56,
+    57,
+    55,
+    93,
+    96,
+    133,
+    54,
+    127,
+    37,
+    92
+   ],
+   "fix": {
+    "bra": "broad"
+   },
+   "posts": {
+    "instagram": "Ett enkelt tips till nästa uppvärmning 👇 Två och två: försök toucha varandras axlar i 20–30 sekunder. Lägg in rörlighet, kör 2–3 varv och avsluta med något explosivt – broad jumps eller accelerationer.\n\n#fotboll #uppvärmning #fysträning #ungdomsfotboll #tränare #laganda",
+    "facebook": "Tips till nästa uppvärmning: Spelarna i par försöker toucha varandras axlar i 20–30 sekunder. Lägg in en eller två rörlighetsövningar, kör 2–3 varv och avsluta med något explosivt som hopp eller accelerationer. Testa och berätta hur det gick!",
+    "linkedin": "Ett konkret uppvärmningsupplägg för lagidrott:\n\n1. Två och två: försök toucha varandras axlar, 20–30 s\n2. En till två rörlighetsövningar\n3. Upprepa 2–3 varv\n4. Avsluta explosivt: hopp, accelerationer eller reaktion\n\nEnkelt, lekfullt och med intensitet.\n\n#fysträning #fotboll #tränare",
+    "x": "Uppvärmningstips: två och två, toucha varandras axlar 20–30 s. Rörlighet, 2–3 varv, avsluta explosivt. #fotboll #tränare"
+   },
+   "start": 3491.33,
+   "end": 3526.2
+  },
+  {
+   "id": "13",
+   "title": "Kom 15 minuter tidigare – kör direkt",
+   "broll": [
+    90,
+    91,
+    92,
+    37,
+    130,
+    131,
+    161,
+    162,
+    179,
+    69
+   ],
+   "fix": {
+    "ashfaganda": "ashwagandha",
+    "mirakelkur.": "mirakelkur."
+   },
+   "posts": {
+    "instagram": "Spelarna värmer upp med appen 10–15 minuter innan träningen – och sen kör ni direkt, i hög hastighet 🚀 Ingen mirakelkur. Bara tid, energi och struktur.\n\nLänk i bio.\n\n#fotboll #uppvärmning #fysträning #ungdomsfotboll #tränare #laganda",
+    "facebook": "Med Laganda kan spelarna komma 10–15 minuter tidigare och göra en strukturerad uppvärmning i mobilen. När träningen börjar kan ni köra direkt, i högre tempo. Ingen mirakelkur – bara tid, energi och struktur. Läs mer: https://laganda.vercel.app/info.html",
+    "linkedin": "Vi har byggt Laganda för att höja lägstanivån i uppvärmningen.\n\nSpelarna går in med lagets kod, gör en strukturerad och progressiv uppvärmning 10–15 minuter innan passet, och tränaren kan starta direkt i högre tempo. Ingen mirakelkur – tid, energi och struktur.\n\nhttps://laganda.vercel.app/info.html\n\n#fotboll #tränare #fysträning",
+    "x": "Spelarna värmer upp med appen 10–15 min innan – sen kör ni direkt. Ingen mirakelkur, bara struktur. laganda.vercel.app/info.html #fotboll"
+   },
+   "start": 2917.03,
+   "end": 2950.16
+  }
+ ]
+}
