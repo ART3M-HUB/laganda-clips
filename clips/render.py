@@ -237,10 +237,16 @@ def render_one(audio, words, clip, fmt, broll, outfile, workdir):
     for x in words:
         if x["s"] >= start - 0.05 and x["e"] <= end + 0.3:
             t = x["w"]
-            for a, b in fixes.items():
-                t = re.sub(rf"\b{re.escape(a)}\b", b, t)
-            if t.strip():
-                rel.append({"w": t, "s": max(0.0, x["s"] - start), "e": x["e"] - start})
+            # Whisper delar ofta "go-to", "20-30" och lösa skiljetecken i egna ord
+            if rel and (t.startswith("-") or re.fullmatch(r"[?!.,:;]+", t)):
+                rel[-1]["w"] += t
+                rel[-1]["e"] = x["e"] - start
+                continue
+            rel.append({"w": t, "s": max(0.0, x["s"] - start), "e": x["e"] - start})
+    for r in rel:
+        for a, b in fixes.items():
+            r["w"] = re.sub(rf"(?<![\w-]){re.escape(a)}(?![\w-])", b, r["w"])
+    rel = [r for r in rel if r["w"].strip()]
     ass = workdir / f"{clip['id']}_{fmt}.ass"
     ass.write_text(build_ass(rel, clip["title"], dur, w, h))
 
@@ -272,7 +278,7 @@ def render_one(audio, words, clip, fmt, broll, outfile, workdir):
         "ffmpeg", "-y", "-hide_banner", "-loglevel", "error", *inputs,
         "-filter_complex", ";".join(fparts),
         "-map", "[v]", "-map", "[aout]",
-        "-c:v", "libx264", "-preset", "medium", "-crf", "22", "-maxrate", "6M", "-bufsize", "12M",
+        "-c:v", "libx264", "-preset", "fast", "-crf", "22", "-maxrate", "6M", "-bufsize", "12M",
         "-pix_fmt", "yuv420p",
         "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-movflags", "+faststart",
         "-t", f"{dur:.2f}", str(outfile),
