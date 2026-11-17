@@ -9,9 +9,11 @@ Skapar:
 """
 
 import json
+import subprocess
 import sys
 from pathlib import Path
 
+import numpy as np
 from faster_whisper import WhisperModel
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -21,6 +23,15 @@ BRAND = json.loads((ROOT / "config" / "brand.json").read_text())
 def fmt(t: float) -> str:
     m, s = divmod(t, 60)
     return f"{int(m):02d}:{s:05.2f}"
+
+
+def load_audio(path: str) -> np.ndarray:
+    """Avkodar valfri ljud-/videofil till 16 kHz mono med ffmpeg."""
+    raw = subprocess.run(
+        ["ffmpeg", "-v", "error", "-i", path, "-ac", "1", "-ar", "16000", "-f", "f32le", "-"],
+        capture_output=True, check=True,
+    ).stdout
+    return np.frombuffer(raw, dtype=np.float32)
 
 
 def main(audio: str, outdir: str) -> None:
@@ -33,7 +44,7 @@ def main(audio: str, outdir: str) -> None:
         download_root=str(ROOT / "models"),
     )
     segments, info = model.transcribe(
-        audio,
+        load_audio(audio),
         language="sv",
         word_timestamps=True,
         vad_filter=True,

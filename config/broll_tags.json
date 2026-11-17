@@ -1,0 +1,1033 @@
+{
+ "_info": "B-roll i Drive-mapp 3, sorterat efter innehåll. k = löpnummer i mappen. Klipp med inbränd text, skärminspelningar och privata klipp är utelämnade.",
+ "categories": {
+  "lag_plan": [
+   {
+    "k": 1,
+    "id": "1d0ujj39cuPNQJZRYDhlwC9O7UaCSR58c",
+    "name": "3a719a898a104c009b3e46c831f55825.mov",
+    "dur": 19.5
+   },
+   {
+    "k": 3,
+    "id": "16TBqmDvCwG9qDEnueEPaUBcTouadbI88",
+    "name": "4a53fce2ed75411aa3babf51b60ab591.mov",
+    "dur": 111.7
+   },
+   {
+    "k": 9,
+    "id": "1K4OGHATAIUztJgqHBsxul-ZBGNUW8EpF",
+    "name": "a5349698-6353-4eea-8a77-797c0d8ce75f.mp4",
+    "dur": 13.3
+   },
+   {
+    "k": 12,
+    "id": "1JxePYUzn6EoIG7E99N_i3D35Hno-ComI",
+    "name": "cb981b55-33e7-456d-8676-0487cb487966.mp4",
+    "dur": 22.1
+   },
+   {
+    "k": 34,
+    "id": "1dCSUShgsKba5IOKzYJ2icivaFv-JAY5H",
+    "name": "IMG_1083.MOV",
+    "dur": 6.9
+   },
+   {
+    "k": 49,
+    "id": "1RqZpXKPjEOSq8AGd4jApZeJ-2MOhTsXE",
+    "name": "IMG_3219.MOV",
+    "dur": 1.6
+   },
+   {
+    "k": 54,
+    "id": "1x25JRBAMFjaGIk5x2txNaDV1lr_NHEjd",
+    "name": "IMG_3311.MOV",
+    "dur": 9.3
+   },
+   {
+    "k": 55,
+    "id": "1-bZ-ORw9phfiMWm-tpDf1INeV_8CPKEU",
+    "name": "IMG_3312.MOV",
+    "dur": 6.2
+   },
+   {
+    "k": 56,
+    "id": "1lpRlbt3ik2K1-sL98Jv4uaGuSFkPN4dx",
+    "name": "IMG_3313.MOV",
+    "dur": 8.1
+   },
+   {
+    "k": 57,
+    "id": "1MOiCoXClIug4k-RiDq6lFAaVXvMr0UKY",
+    "name": "IMG_3316.MOV",
+    "dur": 5.1
+   },
+   {
+    "k": 59,
+    "id": "1nEiQ0myELVBD1i2l7m-3b5dfc0eGFSeG",
+    "name": "IMG_3591.MOV",
+    "dur": 8.7
+   },
+   {
+    "k": 60,
+    "id": "1wKVoa42joxQEaWgbrZQYKFKqtQccGFcU",
+    "name": "IMG_3592.MOV",
+    "dur": 3.2
+   },
+   {
+    "k": 61,
+    "id": "1GUXe-TrZaRWbthkdg5mwSE5OmhgKJwkj",
+    "name": "IMG_3593.MOV",
+    "dur": 7.0
+   },
+   {
+    "k": 126,
+    "id": "1Huazo5IW85zSbnkhQLF2bP3sFjJ4svov",
+    "name": "IMG_4318.MOV",
+    "dur": 9.6
+   },
+   {
+    "k": 127,
+    "id": "1ODtxVJSEcWxC6uYcRrDR3UpMOAkumi88",
+    "name": "IMG_4359.MOV",
+    "dur": 9.1
+   }
+  ],
+  "arena_match": [
+   {
+    "k": 39,
+    "id": "16wJLyQHNAFWvfU3OGwwXsM-aZxEEVMaE",
+    "name": "IMG_2092.MOV",
+    "dur": 7.7
+   },
+   {
+    "k": 40,
+    "id": "13qhXJwubLPspUutfSc2Y5zFTDv6Ymhto",
+    "name": "IMG_2094.MOV",
+    "dur": 15.1
+   }
+  ],
+  "sprint_acceleration": [
+   {
+    "k": 37,
+    "id": "1KnXh-xxBgzoc0B_Nb3m2u2BRfQisFkK1",
+    "name": "IMG_1142.MOV",
+    "dur": 8.6
+   },
+   {
+    "k": 38,
+    "id": "1Gdri_XxVZgVwB_ayJneOwX5s5LlqOqbm",
+    "name": "IMG_1943.MOV",
+    "dur": 1.8
+   },
+   {
+    "k": 69,
+    "id": "1JV1qGb-acB-R3kNJOzkC2lKRkQxQOeWj",
+    "name": "IMG_4032.MOV",
+    "dur": 8.0
+   },
+   {
+    "k": 70,
+    "id": "1KEdcaisYBFs5VVQx3g4kmDMJ_9gc5__s",
+    "name": "IMG_4033.MOV",
+    "dur": 5.9
+   },
+   {
+    "k": 90,
+    "id": "1DAKs42Zjol-Th4NUSRtHvsLpKVKQbZuE",
+    "name": "IMG_4224.MOV",
+    "dur": 5.6
+   },
+   {
+    "k": 91,
+    "id": "1XrcjUHab3CF6kVdFv9mX9cmrJ00nkEoP",
+    "name": "IMG_4225.MOV",
+    "dur": 5.9
+   },
+   {
+    "k": 92,
+    "id": "1mcdoo0tjm__sHNtufWDBD_625OmmT6s0",
+    "name": "IMG_4226.MOV",
+    "dur": 3.5
+   },
+   {
+    "k": 130,
+    "id": "1y8qtZYrSQLs_i12vMCzjCn3x0xQVwGf-",
+    "name": "IMG_4428.MOV",
+    "dur": 7.4
+   },
+   {
+    "k": 131,
+    "id": "1Y-2A1uhvWEa3y-V3dy0Z8-bbNgJFfTg8",
+    "name": "IMG_4429.MOV",
+    "dur": 7.1
+   },
+   {
+    "k": 135,
+    "id": "1F56bREG4kr9DteU3-boxoB-hwFF6wjM2",
+    "name": "IMG_4491.MOV",
+    "dur": 9.1
+   },
+   {
+    "k": 156,
+    "id": "14l44krCi5hRhp6LmQ2RM7EcAUcrv94Jl",
+    "name": "IMG_4801.MOV",
+    "dur": 8.8
+   },
+   {
+    "k": 161,
+    "id": "1f9qAUHGHH1tdeRoC_Z77Cf7NhvGJRr-H",
+    "name": "IMG_5330.MOV",
+    "dur": 4.9
+   },
+   {
+    "k": 162,
+    "id": "1Hb6v07mHTNN7jDRyzY6e2tWuGqfzcdBS",
+    "name": "IMG_5331.MOV",
+    "dur": 6.5
+   },
+   {
+    "k": 179,
+    "id": "1hUtaH2DC8qn3YbtY5uHUpcilRc7-BTFh",
+    "name": "IMG_9125.MOV",
+    "dur": 6.8
+   },
+   {
+    "k": 157,
+    "id": "1sMABX1eQ8uyGPq8EknusYzskH2TGFlfe",
+    "name": "IMG_4806.MOV",
+    "dur": 3.1
+   }
+  ],
+  "hopp_plyometri": [
+   {
+    "k": 14,
+    "id": "1zOObGSlM3JuaSS92x8s1tRtng2qVf1ZY",
+    "name": "e5e1bb11-8842-46d7-927f-7faa1f2d39e2.mov",
+    "dur": 30.7
+   },
+   {
+    "k": 23,
+    "id": "1-4kmLte8GocW7W66Zpagtk9RTWE9TDnC",
+    "name": "IMG_0334.MOV",
+    "dur": 8.9
+   },
+   {
+    "k": 24,
+    "id": "1DMqowMcoNQgGd_5N8gd325x4BKcgH7yN",
+    "name": "IMG_0334.MOV",
+    "dur": 8.9
+   },
+   {
+    "k": 25,
+    "id": "1MtgY9_gPKiJ2TsVqrOujh1B2OtNn0gcM",
+    "name": "IMG_0334.MOV",
+    "dur": 8.9
+   },
+   {
+    "k": 36,
+    "id": "1_Ks-o_ZYutK01WYwHrmbr81SJjRLkpJQ",
+    "name": "IMG_1136.MOV",
+    "dur": 3.1
+   },
+   {
+    "k": 72,
+    "id": "1jofmPe5TmXsdKtEBTA2nw_PfWzInC8oT",
+    "name": "IMG_4179.MOV",
+    "dur": 3.2
+   },
+   {
+    "k": 73,
+    "id": "1MQ_3J-HqHXpAoynTHMpGplxCbngaf5Am",
+    "name": "IMG_4180.MOV",
+    "dur": 5.2
+   },
+   {
+    "k": 74,
+    "id": "1B3dUXui0ZwPLkd97wBPIkxOh0f7XJpo8",
+    "name": "IMG_4182.MOV",
+    "dur": 1.6
+   },
+   {
+    "k": 75,
+    "id": "1rF9bKkqw6nSVvBElWtxOlfRPea-IcW9F",
+    "name": "IMG_4183.MOV",
+    "dur": 7.0
+   },
+   {
+    "k": 76,
+    "id": "1nQ0SNPQW16SPBrjQlPjlXdPLkT5FXPpP",
+    "name": "IMG_4184.MOV",
+    "dur": 8.6
+   },
+   {
+    "k": 124,
+    "id": "1wExWAyk9mAJEJmsrxCFy4CzAnzumRvnx",
+    "name": "IMG_4282.MOV",
+    "dur": 8.7
+   },
+   {
+    "k": 151,
+    "id": "186aApsEj3b8srwonPIlbDnQXwz0iT44I",
+    "name": "IMG_4777.MOV",
+    "dur": 8.6
+   },
+   {
+    "k": 152,
+    "id": "1s65P8oiajnnPUdRj-HK2Cc8quiw1U_yY",
+    "name": "IMG_4778.MOV",
+    "dur": 3.0
+   },
+   {
+    "k": 153,
+    "id": "1s8h85z5-gabUjueLHH-APY05EWBJ10dl",
+    "name": "IMG_4779.MOV",
+    "dur": 2.5
+   },
+   {
+    "k": 154,
+    "id": "1P9AmfxJJkA2l1pwcVhncWbsaTulenZ1v",
+    "name": "IMG_4780.MOV",
+    "dur": 4.9
+   },
+   {
+    "k": 163,
+    "id": "1VkSEPAml_tAy4q5zmR6ey-aleija0MxS",
+    "name": "IMG_5332.MOV",
+    "dur": 4.8
+   },
+   {
+    "k": 171,
+    "id": "1Rr-giPs8d0AupW-D0HxGHTvc8dewkCnH",
+    "name": "IMG_8346.MOV",
+    "dur": 4.5
+   },
+   {
+    "k": 177,
+    "id": "1dkqOCo2IYEMo2CG-j2XRt660n7MqJZcf",
+    "name": "IMG_9081.MOV",
+    "dur": 8.9
+   },
+   {
+    "k": 187,
+    "id": "1k8V1Vu15mSIpS-iEt4crxwUv6Uu9lD7S",
+    "name": "IMG_9487.MOV",
+    "dur": 8.8
+   },
+   {
+    "k": 191,
+    "id": "1p8KLaAvFWSvtJBOjlG42CgErcSRiOHou",
+    "name": "IMG_9784.MOV",
+    "dur": 2.1
+   }
+  ],
+  "styrka_gym": [
+   {
+    "k": 0,
+    "id": "1LZGQ1WVkrDor4SUsur9ZI-DZmeIPl1nU",
+    "name": "0e4979a0478348629c1d6b8df151440c.mov",
+    "dur": 25.2
+   },
+   {
+    "k": 17,
+    "id": "1vOJuEcsuFx6IEQL7U6oCtv97xKp8CF6_",
+    "name": "fast rotations.mov",
+    "dur": 13.0
+   },
+   {
+    "k": 50,
+    "id": "1vdBiZk5BMVjVkX1sSFhJTKAAFWl5xoGP",
+    "name": "IMG_3305.MOV",
+    "dur": 5.0
+   },
+   {
+    "k": 51,
+    "id": "1tfLfXl38mx2ILDFCiJTgUQlhYBKI_wWF",
+    "name": "IMG_3306.MOV",
+    "dur": 7.7
+   },
+   {
+    "k": 52,
+    "id": "1Ufo3If8ZFFcMpwRKZr2AQCjF-oh0ZwtW",
+    "name": "IMG_3309.MOV",
+    "dur": 9.0
+   },
+   {
+    "k": 53,
+    "id": "1kMfu0CiSNepNvqAm1y0BpT6FSngjz2fw",
+    "name": "IMG_3310.MOV",
+    "dur": 9.5
+   },
+   {
+    "k": 58,
+    "id": "18BZvF3VEYa6esgcn2QH7-Nht39YRAjBB",
+    "name": "IMG_3407.MOV",
+    "dur": 6.1
+   },
+   {
+    "k": 62,
+    "id": "1kuC-SZNg46qA_2ksH7_imSZk6iRvNJ0A",
+    "name": "IMG_3607.MOV",
+    "dur": 8.3
+   },
+   {
+    "k": 63,
+    "id": "1qU5wo1ZQ55wWUUcTfV5zwXSKgX25AQft",
+    "name": "IMG_3941.MOV",
+    "dur": 8.8
+   },
+   {
+    "k": 64,
+    "id": "1WJ0XljWATtysxJ6V_L2uxZmCdE767mF_",
+    "name": "IMG_3942.MOV",
+    "dur": 7.1
+   },
+   {
+    "k": 119,
+    "id": "1XHvv_UN0o1dTHF-ZC4Vk3zYEpmablngP",
+    "name": "IMG_4274.MOV",
+    "dur": 8.5
+   },
+   {
+    "k": 121,
+    "id": "1WCsvXwdNFhasvLbsaaiHzqcld_j26vUq",
+    "name": "IMG_4277.MOV",
+    "dur": 6.8
+   },
+   {
+    "k": 122,
+    "id": "1ZNgGK76gS6DRw53sIVB2pYQok1fVYhRl",
+    "name": "IMG_4278.MOV",
+    "dur": 8.4
+   },
+   {
+    "k": 123,
+    "id": "17wTijHwiAG-EIW-BCONOqqSnqxTaaoPO",
+    "name": "IMG_4279.MOV",
+    "dur": 4.9
+   },
+   {
+    "k": 134,
+    "id": "1fSdROuM3ZjJSqX7I_7dEigZ0sdUOwmUP",
+    "name": "IMG_4487.MOV",
+    "dur": 9.6
+   },
+   {
+    "k": 138,
+    "id": "1ueGclHv0U6_pAyzFeaarxFZWzf3hGwHL",
+    "name": "IMG_4506.MOV",
+    "dur": 9.4
+   },
+   {
+    "k": 168,
+    "id": "1IO7y2gfd0KZiXilxX2HMGkidUS8KoOxk",
+    "name": "IMG_7439.MOV",
+    "dur": 6.6
+   },
+   {
+    "k": 169,
+    "id": "1WqkPmpvwPko5FuzpmfcQI-IS3nzhr-Pu",
+    "name": "IMG_7444.MOV",
+    "dur": 3.2
+   },
+   {
+    "k": 184,
+    "id": "1eZVKKzYbdvxOmzsR_IGFXe9QKq_4JMAL",
+    "name": "IMG_9385.MOV",
+    "dur": 4.4
+   },
+   {
+    "k": 185,
+    "id": "14fwqH91utRcF1N0znWomHkyPcZZDvC_d",
+    "name": "IMG_9386.MOV",
+    "dur": 8.2
+   },
+   {
+    "k": 188,
+    "id": "1ss03bCPTvYNhIkL9TnxH_8k3rHSsF698",
+    "name": "IMG_9678.MOV",
+    "dur": 8.5
+   },
+   {
+    "k": 189,
+    "id": "1xFK6gGh42N-Qsx8KoatiOq7KFTt9xrIp",
+    "name": "IMG_9679.MOV",
+    "dur": 6.4
+   },
+   {
+    "k": 190,
+    "id": "10qKvNcTAgen9MjJaOPWEkZvCaAI0xN5X",
+    "name": "IMG_9680.MOV",
+    "dur": 5.2
+   },
+   {
+    "k": 204,
+    "id": "1kwlEYTihh8pcmM2JL1G53JL_hx7B6CEH",
+    "name": "ScreenRecording_04-08-2026 14-52-07_1.mp4",
+    "dur": 18.5
+   },
+   {
+    "k": 205,
+    "id": "1GSKJKRUZq5MkXzaFJsYTKcoJldVUJZGL",
+    "name": "ScreenRecording_05-18-2026 11-07-53_1.mp4",
+    "dur": 8.8
+   }
+  ],
+  "pullups_hang": [
+   {
+    "k": 7,
+    "id": "1px1CimRL1LHGMzbKqcgyO56F8ecQ1Gqu",
+    "name": "66E21F4E-8738-4224-BDEE-EDEB19B937A3.mp4",
+    "dur": 10.4
+   },
+   {
+    "k": 19,
+    "id": "1iKXsOu5rJ_OY_ZwmzzUmtnI53nFwp_V5",
+    "name": "IMG_0153.MOV",
+    "dur": 5.7
+   },
+   {
+    "k": 114,
+    "id": "1Gieyr50LGLIFSC6KaPmPsDaxqKyP-Bur",
+    "name": "IMG_4268.MOV",
+    "dur": 8.7
+   },
+   {
+    "k": 174,
+    "id": "1gjWR7KQ_m21o7OcdX_jDtlAjCSCHBvGQ",
+    "name": "IMG_8862.MOV",
+    "dur": 4.9
+   },
+   {
+    "k": 176,
+    "id": "1GgI-xlk98d3870Z_AqTlqiMDZTk6zMxm",
+    "name": "IMG_9063.MOV",
+    "dur": 9.3
+   },
+   {
+    "k": 182,
+    "id": "1skyjWPwdqtWk5z2RJeY8O0YiN92LaG63",
+    "name": "IMG_9158.MOV",
+    "dur": 7.9
+   }
+  ],
+  "snabbhet_fotarbete": [
+   {
+    "k": 26,
+    "id": "10po79qe_YGmu4eW5xrjOMsiKoWHF8KK7",
+    "name": "IMG_0549.MOV",
+    "dur": 7.1
+   },
+   {
+    "k": 27,
+    "id": "14am2DUoJoabUz9bLqwEZOvLTG-4GyiVH",
+    "name": "IMG_0549.MOV",
+    "dur": 7.1
+   },
+   {
+    "k": 28,
+    "id": "1D57tKTTmoISzKSsQRJobPGmtS51wXgcD",
+    "name": "IMG_0549.MOV",
+    "dur": 7.1
+   },
+   {
+    "k": 29,
+    "id": "1H82NbtBxXuS33R1l3pSkuNMn1Px3q3fX",
+    "name": "IMG_0550.MOV",
+    "dur": 4.7
+   },
+   {
+    "k": 30,
+    "id": "1ThJ0Z9KQzoRLJ7h8WVxrSeWxIJ_8tmRv",
+    "name": "IMG_0550.MOV",
+    "dur": 4.7
+   },
+   {
+    "k": 31,
+    "id": "1faFVa3tCQ4KOOTCYrI2rgrottOpkl9Uq",
+    "name": "IMG_0550.MOV",
+    "dur": 4.7
+   },
+   {
+    "k": 65,
+    "id": "1HZmBk61OXqTlX4TZOqNu2x5CixvPlkC3",
+    "name": "IMG_3985.MOV",
+    "dur": 4.7
+   },
+   {
+    "k": 66,
+    "id": "1_NvgPFAeeNnbJ6m_-EFyZzVQDknANn03",
+    "name": "IMG_3986.MOV",
+    "dur": 6.2
+   },
+   {
+    "k": 67,
+    "id": "1NwrZJUy5G50grX41-8vcco9Tw3W2mKtZ",
+    "name": "IMG_3987.MOV",
+    "dur": 5.6
+   },
+   {
+    "k": 85,
+    "id": "1UM2vZeD9zmnJ2fZboSfNYnwTc6uDlT0g",
+    "name": "IMG_4217.MOV",
+    "dur": 5.6
+   },
+   {
+    "k": 86,
+    "id": "1Zk7sqNF5-2teKutr2enXmK_ljM9-9rEt",
+    "name": "IMG_4218.MOV",
+    "dur": 9.5
+   },
+   {
+    "k": 87,
+    "id": "1JDSBpc5SATsbw9s3YGToPxjb22_N_0F9",
+    "name": "IMG_4219.MOV",
+    "dur": 9.5
+   },
+   {
+    "k": 89,
+    "id": "1OKEFgjnA0SbRxExUKigLREuIOADNA0Pi",
+    "name": "IMG_4221.MOV",
+    "dur": 9.6
+   },
+   {
+    "k": 94,
+    "id": "16F_qo30dbqD1WX6UCW3aYI5TfOxLyRJT",
+    "name": "IMG_4237.MOV",
+    "dur": 7.3
+   },
+   {
+    "k": 95,
+    "id": "1Lv3JYrlvhUWPvU9GMaPO1zBMjKZLfZ9U",
+    "name": "IMG_4238.MOV",
+    "dur": 7.2
+   },
+   {
+    "k": 96,
+    "id": "1hPC-NNZKrwM1kdyiKl2vXuMjpkPq6XEU",
+    "name": "IMG_4239.MOV",
+    "dur": 4.1
+   },
+   {
+    "k": 97,
+    "id": "1GjUngNgEBsyJEEwq-ap5yVS3q5L_8Yv-",
+    "name": "IMG_4240.MOV",
+    "dur": 5.3
+   },
+   {
+    "k": 98,
+    "id": "1y_GjWNeE6f2RIAi9oH8fvOrCsd_9s5kY",
+    "name": "IMG_4242.MOV",
+    "dur": 3.7
+   },
+   {
+    "k": 99,
+    "id": "1X1_MWHVhT2fZQ25agRzbKzpxCoyK61mq",
+    "name": "IMG_4243.MOV",
+    "dur": 4.7
+   },
+   {
+    "k": 100,
+    "id": "1qjQnzCcAQiPxUEAKlxM91Yr58XSYEJPG",
+    "name": "IMG_4244.MOV",
+    "dur": 6.1
+   },
+   {
+    "k": 101,
+    "id": "10Ub4cNt7M3-nM3BYXoCnFNYPxIcblP-L",
+    "name": "IMG_4245.MOV",
+    "dur": 9.3
+   },
+   {
+    "k": 103,
+    "id": "1KsM3X5ifRynJjuoji8_NZcRW75NI8bTx",
+    "name": "IMG_4247.MOV",
+    "dur": 4.0
+   },
+   {
+    "k": 104,
+    "id": "1cL3zX52igN-FhuDeiduGIh6ial6Y4TMw",
+    "name": "IMG_4248.MOV",
+    "dur": 5.3
+   },
+   {
+    "k": 105,
+    "id": "1FU6GKAcAdKb8ZbA-n1uc0ogiGXbJAydL",
+    "name": "IMG_4249.MOV",
+    "dur": 5.8
+   },
+   {
+    "k": 106,
+    "id": "1u1xEIxDZrZBUngin3oR3Yb8rq6PJJM1r",
+    "name": "IMG_4249.MOV",
+    "dur": 7.5
+   },
+   {
+    "k": 107,
+    "id": "1t-GSydvfhZywBuof5X4I8ff-PFM648Jd",
+    "name": "IMG_4250.MOV",
+    "dur": 3.4
+   },
+   {
+    "k": 108,
+    "id": "1vB9iwzOAHHeH6qFSe3VM7APq8voKxH99",
+    "name": "IMG_4253.MOV",
+    "dur": 7.5
+   },
+   {
+    "k": 109,
+    "id": "1FpCS-WnOhC-pwMBHB9meF8Er_Kw0TCnN",
+    "name": "IMG_4254.MOV",
+    "dur": 5.1
+   },
+   {
+    "k": 110,
+    "id": "1kc0Ty014kIyEvZwUaNXfcDfpjgheTUBv",
+    "name": "IMG_4255.MOV",
+    "dur": 5.8
+   },
+   {
+    "k": 111,
+    "id": "14tKA2QHR6W4tWIqZRLoAwLLkOkD9HaLp",
+    "name": "IMG_4256.MOV",
+    "dur": 8.3
+   },
+   {
+    "k": 128,
+    "id": "1pwqt2B79mr3Ko62HIVSfxMFyNdkeql0r",
+    "name": "IMG_4425.MOV",
+    "dur": 6.5
+   },
+   {
+    "k": 129,
+    "id": "18Yt_iXsnB2hvj_SKJw8KclvYy-XG3_lj",
+    "name": "IMG_4426.MOV",
+    "dur": 5.6
+   },
+   {
+    "k": 142,
+    "id": "1vC-0w8v27MylM6SZny0DyUjeCJlwxvWR",
+    "name": "IMG_4607.MOV",
+    "dur": 5.5
+   },
+   {
+    "k": 143,
+    "id": "15PFaxGJfT3rI2_KsJD8GcNB1c1611n2j",
+    "name": "IMG_4608.MOV",
+    "dur": 6.2
+   },
+   {
+    "k": 178,
+    "id": "1mMVsmcWxtCOTVc2ZbfKx1yTQqQ8iO9nH",
+    "name": "IMG_9116.MOV",
+    "dur": 8.2
+   },
+   {
+    "k": 180,
+    "id": "16gVaCfegItc3b4adpa4sI-Rnva-3tvKL",
+    "name": "IMG_9130.MOV",
+    "dur": 5.7
+   }
+  ],
+  "rorlighet_balans_core": [
+   {
+    "k": 4,
+    "id": "1QHj19goM8HkJefSoGNqcPPGZ-SpRnbtZ",
+    "name": "5015bf31f1a447cf80f3d9372a678a08.mov",
+    "dur": 19.9
+   },
+   {
+    "k": 20,
+    "id": "1ZOPZzcf5XKFCtWx45CYAAWMNXrNwXKv3",
+    "name": "IMG_0195.MOV",
+    "dur": 5.6
+   },
+   {
+    "k": 21,
+    "id": "1XwithsO6mIEkkwfy1j2wsL2foCpBGiXG",
+    "name": "IMG_0195.MOV",
+    "dur": 5.6
+   },
+   {
+    "k": 22,
+    "id": "1-awR9X8OKmF-66KtN-IEeEJe3zPkte2M",
+    "name": "IMG_0195.MOV",
+    "dur": 5.6
+   },
+   {
+    "k": 41,
+    "id": "1QiIqxUpRQXV6GqbHAKWmX_I3W38R2Nuo",
+    "name": "IMG_2773.MOV",
+    "dur": 5.1
+   },
+   {
+    "k": 42,
+    "id": "14slHiJvq4eFVVA4JYOuI-P7Ch7u5GJcJ",
+    "name": "IMG_2774.MOV",
+    "dur": 7.2
+   },
+   {
+    "k": 47,
+    "id": "1EIQiydpll_tNKN8nBBnX6xkzTSCWTkjY",
+    "name": "IMG_3140.MOV",
+    "dur": 9.5
+   },
+   {
+    "k": 46,
+    "id": "1URr19ScG4zg8Z_knvSIcUB1TVpuD-AFG",
+    "name": "IMG_3139.MOV",
+    "dur": 6.3
+   },
+   {
+    "k": 48,
+    "id": "1vuaintrbMLt3gYNeAFDr_lte0iNlVGyw",
+    "name": "IMG_3147.MOV",
+    "dur": 5.1
+   },
+   {
+    "k": 77,
+    "id": "10Nmgp3ynBzrBkxkAeECWOuP8lC5AMN_3",
+    "name": "IMG_4206.MOV",
+    "dur": 5.0
+   },
+   {
+    "k": 79,
+    "id": "1IsV9DlOyuGZf5Nc7CJFL9Kh66MrckSYf",
+    "name": "IMG_4208.MOV",
+    "dur": 5.0
+   },
+   {
+    "k": 93,
+    "id": "1IyZ6wbXCnbwswYshaLqAKCVtF9vZDKYV",
+    "name": "IMG_4236.MOV",
+    "dur": 8.7
+   },
+   {
+    "k": 112,
+    "id": "1CrbXn4j-0w52k5DpGvCEYISivn2df6qT",
+    "name": "IMG_4257.MOV",
+    "dur": 6.6
+   },
+   {
+    "k": 113,
+    "id": "1f-RtPhPxPbRerCdDFv2a-WVgAOtzHSUS",
+    "name": "IMG_4266.MOV",
+    "dur": 6.7
+   },
+   {
+    "k": 118,
+    "id": "1IvYagDJE5aAiNxT30knXjloqmCkO7I0B",
+    "name": "IMG_4273.MOV",
+    "dur": 6.8
+   },
+   {
+    "k": 120,
+    "id": "1yOR3ACUyXuU0V4qgm1vFGgMDFttHJq2U",
+    "name": "IMG_4276.MOV",
+    "dur": 6.6
+   },
+   {
+    "k": 132,
+    "id": "1icSI9xEY9EoqzqAq5ObQuU9v3ojPT4v_",
+    "name": "IMG_4431.MOV",
+    "dur": 8.3
+   },
+   {
+    "k": 133,
+    "id": "1v-l4eHmak0szKT67hhH1E8NyC6aSpIz_",
+    "name": "IMG_4432.MOV",
+    "dur": 8.3
+   },
+   {
+    "k": 137,
+    "id": "1UYa7AKH32b3CLKtFQr-XIixGw-bbb0Oi",
+    "name": "IMG_4505.MOV",
+    "dur": 4.4
+   },
+   {
+    "k": 148,
+    "id": "1aFe-9FYhqKF8WvyNpUF9Z2-G783xalIY",
+    "name": "IMG_4703.MOV",
+    "dur": 8.5
+   },
+   {
+    "k": 165,
+    "id": "1Q8JpnjQZFkZh7vUZVKmXhn2zjs5WjIxF",
+    "name": "IMG_5878.MOV",
+    "dur": 4.7
+   },
+   {
+    "k": 173,
+    "id": "1E0yVxz76rtuMtqT_tIIc53-HWM4AMudj",
+    "name": "IMG_8741.MOV",
+    "dur": 9.6
+   },
+   {
+    "k": 181,
+    "id": "1gu-455U0F7UokYRCCF-e-_mp6Hf1wEV6",
+    "name": "IMG_9131.MOV",
+    "dur": 7.8
+   },
+   {
+    "k": 186,
+    "id": "1CzvtURQUdUpGIZOgpxhovhZQx2EVFhhb",
+    "name": "IMG_9453.MOV",
+    "dur": 8.5
+   }
+  ],
+  "slade_push": [
+   {
+    "k": 145,
+    "id": "1Xzsb8tOdfjjm0quRI6dnew4BKgSh1AH9",
+    "name": "IMG_4640.MOV",
+    "dur": 7.1
+   },
+   {
+    "k": 146,
+    "id": "1hb0wW_I8-n5YYPxmSIg6_jQStRYjm0Kd",
+    "name": "IMG_4641.MOV",
+    "dur": 8.5
+   },
+   {
+    "k": 136,
+    "id": "1Jyf9m_s4FrqDFySusSgHantVBxFcstBq",
+    "name": "IMG_4494.MOV",
+    "dur": 5.3
+   }
+  ],
+  "gym_miljo": [
+   {
+    "k": 2,
+    "id": "17L4RbekrBo5uIgU1Ja8Q6ezGzEuJLM9W",
+    "name": "46FD6A75-28D1-4D82-B5E5-396D4C8A2497.mp4",
+    "dur": 6.3
+   },
+   {
+    "k": 16,
+    "id": "18oUnKk_yX8moA4JfVox0zuduFb0MuwWJ",
+    "name": "f346fc48cb424e91a2132aa9394283d9.mov",
+    "dur": 5.8
+   },
+   {
+    "k": 43,
+    "id": "1GfbQZa5PR6Vk0-Y6hQdo-Wx1xGjaRWlV",
+    "name": "IMG_2830.MOV",
+    "dur": 5.3
+   },
+   {
+    "k": 44,
+    "id": "1Fw823kneTzeV2Tsf7WzXcm30QMp6G6Gy",
+    "name": "IMG_2831.MOV",
+    "dur": 2.9
+   },
+   {
+    "k": 45,
+    "id": "1_fXhPOtWeV365eQQMgPi9T0108f5xHxF",
+    "name": "IMG_2832.MOV",
+    "dur": 4.8
+   },
+   {
+    "k": 68,
+    "id": "1OTYecVTkJED7xBNoKBV4eDN_kTiPyx5u",
+    "name": "IMG_4031.MOV",
+    "dur": 8.4
+   },
+   {
+    "k": 71,
+    "id": "1O4skz0P0zh6-0Cxkz0f9g1AM0sa_Mb8K",
+    "name": "IMG_4102.MOV",
+    "dur": 6.6
+   },
+   {
+    "k": 80,
+    "id": "14-n7Fvub_0GZNsBNbfsPHo--RoaFN-nL",
+    "name": "IMG_4211.MOV",
+    "dur": 4.6
+   },
+   {
+    "k": 81,
+    "id": "1tWLEBu63EHa_k9YO3op3_dJwv-WFhNzc",
+    "name": "IMG_4212.MOV",
+    "dur": 6.1
+   },
+   {
+    "k": 82,
+    "id": "1jzQVuEWWSWO5Xs2y0YiYvIXGFi7Vrfuj",
+    "name": "IMG_4214.MOV",
+    "dur": 6.4
+   },
+   {
+    "k": 83,
+    "id": "16B9saA6BK7T8k5M7PaQ48ztku-WetN40",
+    "name": "IMG_4215.MOV",
+    "dur": 5.2
+   },
+   {
+    "k": 115,
+    "id": "1uTnhPM70djz_wEwyimp3SwIChohrCsfP",
+    "name": "IMG_4269.MOV",
+    "dur": 4.3
+   },
+   {
+    "k": 116,
+    "id": "1m8D20k0xWf3RZwSyKtd76wG9k-88PlUi",
+    "name": "IMG_4270.MOV",
+    "dur": 3.7
+   },
+   {
+    "k": 139,
+    "id": "1Lh-LEZ6Yk6doH2whrPCbb2AN1mZcp7Jy",
+    "name": "IMG_4537.MOV",
+    "dur": 4.9
+   },
+   {
+    "k": 140,
+    "id": "1hcbwwiVzC_zdu9qQQ2f--SNJjiSTBXdn",
+    "name": "IMG_4605.MOV",
+    "dur": 9.2
+   },
+   {
+    "k": 141,
+    "id": "12I0leDdfC_j0pNxPmopOSpQcsdv5t7DF",
+    "name": "IMG_4606.MOV",
+    "dur": 5.0
+   },
+   {
+    "k": 149,
+    "id": "1tdjmpHowNkCpoQlZ4FBtrlsSZzGxp8sW",
+    "name": "IMG_4704.MOV",
+    "dur": 3.9
+   },
+   {
+    "k": 155,
+    "id": "1o8iyFyee5HqRlMQCFR0sGldy2eh3bdr-",
+    "name": "IMG_4788.MOV",
+    "dur": 7.7
+   },
+   {
+    "k": 159,
+    "id": "1ZT19ws51E3ZZFRflzGraT-wV5eeSQV9p",
+    "name": "IMG_5328.MOV",
+    "dur": 7.5
+   },
+   {
+    "k": 160,
+    "id": "1r7_mFuMtLKrtkoE-SXop2oagUXTQBY7d",
+    "name": "IMG_5329.MOV",
+    "dur": 8.4
+   },
+   {
+    "k": 172,
+    "id": "1dnsrIQ3v_2M11_TUYfa8hgcwz3ujU9Tt",
+    "name": "IMG_8634.MOV",
+    "dur": 8.4
+   },
+   {
+    "k": 202,
+    "id": "1i-OUQBfSy6RRJKAiuSpGAn41MXW6r5Ih",
+    "name": "ScreenRecording_03-09-2026 08-02-41_1.mp4",
+    "dur": 7.2
+   }
+  ]
+ }
+}
