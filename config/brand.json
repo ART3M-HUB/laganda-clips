@@ -1,0 +1,40 @@
+{
+  "colors": {
+    "blue": "#36609f",
+    "lightblue": "#cae3ff",
+    "orange": "#ffaa00",
+    "brightblue": "#009dfd",
+    "white": "#ffffff",
+    "text": "#333333"
+  },
+  "fonts": {
+    "heading": "Big Shoulders Stencil Display ExtraBold",
+    "caption": "Saira Condensed ExtraBold",
+    "label": "Saira Condensed SemiBold"
+  },
+  "brand_label": "LAGANDA",
+  "broll_seconds": 4.0,
+  "broll_tint_opacity": 0.45,
+  "caption_words_per_line": 3,
+  "formats": {
+    "9x16": [1080, 1920],
+    "4x5": [1080, 1350],
+    "1x1": [1080, 1080],
+    "16x9": [1920, 1080]
+  },
+  "channels": {
+    "instagram": "9x16",
+    "facebook": "4x5",
+    "linkedin": "1x1",
+    "x": "1x1"
+  },
+  "whisper_model": "KBLab/kb-whisper-small",
+  "drive": {
+    "root": "1CXSi2_iKZjyJO1nIYEI7vZiw8SXdMnDd",
+    "incoming": "1kHHOtiWo2X4A8_qO9RHHd6XVfzRltZb3",
+    "template": "1z08f0bbeR4T8CFoEJY46OHhIpwVflU80",
+    "broll": "1fCK69Gb9SP26YQ-CwMoUiRhzlgicBhBs",
+    "review": "1tZF3SK1ALYKCWwW319Vsrw1evci2MEX9",
+    "published": "1H-zIrEB2wFpKRATjnBsTOCPAzmiV02eA"
+  }
+}
