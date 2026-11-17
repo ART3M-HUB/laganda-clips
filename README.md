@@ -24,24 +24,32 @@ Mapparna i Drive:
 
 Videofilerna i git ignoreras – de bor bara i Drive.
 
+**Viktigt om åtkomst:** Claudes Drive-koppling ser bara filer som Claude själv
+skapat och klarar max ~3 MB per fil. Därför delas mappen **Laganda Clips** med
+*Alla som har länken* (Dela → Allmän åtkomst), och agenten hämtar filerna
+direkt från Google med `clips/fetch_drive.py`. Färdiga klipp (6–8 MB) är för
+stora för att laddas upp via kopplingen – de skickas till Artem i Claude-chatten.
+
 ## Flöde
 
-1. Ladda upp ett helt avsnitt i mapp 1.
-2. Agenten (Claude) transkriberar avsnittet på svenska (`clips/transcribe.py`).
-3. Agenten läser utskriften och väljer 3–5 avsnitt på 30–60 s som står på
+1. Ladda upp ett helt avsnitt i mapp 1 (WAV eller MP3 från Riverside).
+2. Agenten hämtar mapparna 1–3 via länken (`clips/fetch_drive.py`).
+3. Agenten (Claude) transkriberar avsnittet på svenska (`clips/transcribe.py`).
+4. Agenten läser utskriften och väljer 3–5 avsnitt på 30–60 s som står på
    egna ben, och skriver en plan (`plan.json`) med rubrik och inläggstexter.
-4. `clips/render.py` gör ett klipp per format:
+5. `clips/render.py` gör ett klipp per format:
    - `9x16.mp4` – Instagram Reels
    - `4x5.mp4` – Facebook
    - `1x1.mp4` – LinkedIn och X
-5. Agenten lägger klippen och `inlagg.md` i mapp 4. **Inget publiceras
-   automatiskt** – du granskar, lägger upp själv och flyttar till mapp 5.
+6. Agenten skickar klippen och `inlagg.md` i chatten. **Inget publiceras
+   automatiskt** – du granskar, lägger upp själv och sparar gärna i mapp 5.
 
 ## Köra själv
 
 ```sh
 pip install -r requirements.txt     # kräver även ffmpeg
-python clips/transcribe.py avsnitt.mp3 work/avsnitt
+python clips/fetch_drive.py <länk till mapp 1> work/avsnitt
+python clips/transcribe.py work/avsnitt/<fil> work/avsnitt
 # skriv work/avsnitt/plan.json (se render.py för format)
 python clips/render.py work/avsnitt/plan.json --broll work/broll
 ```

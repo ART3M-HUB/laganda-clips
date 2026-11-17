@@ -5,10 +5,15 @@ finns i `config/brand.json` under `drive`.
 
 ## En körning
 
-1. Lista filer i Drive-mapp 1 (`drive.incoming`). Hoppa över avsnitt som redan
-   har en mapp i mapp 4 eller 5 med samma avsnittsnamn.
-2. Ladda ner avsnittet till `work/<avsnitt>/` och B-roll från mapp 3 till
-   `work/broll/`.
+1. Drive-kopplingen ser INTE Artems uppladdade filer och klarar max ~3 MB.
+   Hämta i stället via länk: `python clips/fetch_drive.py
+   https://drive.google.com/drive/folders/<id> <målmapp>` (id:n i
+   `config/brand.json` → `drive`). Mapp 1 → `work/incoming/`, mapp 2 →
+   `work/template/`, mapp 3 → `work/broll/`. Kräver att mappen är delad med
+   "Alla som har länken" och att miljön når drive.google.com och
+   drive.usercontent.google.com.
+2. Hoppa över avsnitt som redan finns i `processed.txt` i repot. Lägg till
+   filnamnet där när avsnittet är klart och committa.
 3. `python clips/transcribe.py work/<avsnitt>/<fil> work/<avsnitt>`.
 4. Läs `transcript.txt` och välj 3–5 klipp:
    - 30–60 s, börjar och slutar på hel mening, begripligt utan sammanhang.
@@ -20,8 +25,8 @@ finns i `config/brand.json` under `drive`.
    tecken). Alla på svenska.
 6. `python clips/render.py work/<avsnitt>/plan.json`. Titta på en bildruta
    per format innan uppladdning.
-7. Skapa en undermapp i mapp 4 per klipp: `<avsnitt> – <id> <rubrik>` och
-   ladda upp alla mp4-filer och `inlagg.md`.
+7. Skicka mp4-filerna och `inlagg.md` till Artem i chatten (SendUserFile).
+   Uppladdning till Drive via kopplingen fungerar inte för filer över ~3 MB.
 
 ## Regler
 
