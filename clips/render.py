@@ -230,7 +230,8 @@ def render_one(audio, words, clip, fmt, broll, outfile, workdir):
             t = x["w"]
             for a, b in fixes.items():
                 t = re.sub(rf"\b{re.escape(a)}\b", b, t)
-            rel.append({"w": t, "s": max(0.0, x["s"] - start), "e": x["e"] - start})
+            if t.strip():
+                rel.append({"w": t, "s": max(0.0, x["s"] - start), "e": x["e"] - start})
     ass = workdir / f"{clip['id']}_{fmt}.ass"
     ass.write_text(build_ass(rel, clip["title"], dur, w, h))
 
@@ -262,7 +263,8 @@ def render_one(audio, words, clip, fmt, broll, outfile, workdir):
         "ffmpeg", "-y", "-hide_banner", "-loglevel", "error", *inputs,
         "-filter_complex", ";".join(fparts),
         "-map", "[v]", "-map", "[aout]",
-        "-c:v", "libx264", "-preset", "medium", "-crf", "21", "-pix_fmt", "yuv420p",
+        "-c:v", "libx264", "-preset", "medium", "-crf", "22", "-maxrate", "6M", "-bufsize", "12M",
+        "-pix_fmt", "yuv420p",
         "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-movflags", "+faststart",
         "-t", f"{dur:.2f}", str(outfile),
     ]
