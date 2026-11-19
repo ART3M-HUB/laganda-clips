@@ -18,8 +18,17 @@ Gör inget och svara bara kort om det inte finns något nytt avsnitt.
    uppladdade filer och klarar max ~3 MB – använd alltid länkhämtningen. Kräver
    att mappen är delad med "Alla som har länken" och att miljön når
    drive.google.com och drive.usercontent.google.com.
-4. **Transkribera:** `python clips/transcribe.py work/<avsnitt>/<fil>
-   work/<avsnitt>` (ca 1,3× realtid på 4 kärnor – kör i bakgrunden).
+4. **Kolla språket först:** transkribera de första ~3 minuterna
+   (`--windows 0-180`) med `--lang sv` och läs. Är samtalet på engelska (t.ex.
+   en engelsktalande gäst) används `--lang en` – den svenska modellen gör
+   engelskt tal oläsligt.
+   **Transkribera:** `python clips/transcribe.py work/<avsnitt>/<fil>
+   work/<avsnitt> --lang <sv|en>` (kör i bakgrunden). När klippen är valda:
+   kör de valda intervallen igen med `--windows` (för engelska med
+   `--model Systran/faster-whisper-medium.en`) och använd `words_windows.json`
+   som `words` i planen – det ger bättre undertexter.
+   Engelska avsnitt: rubrik och undertexter på engelska (som talet),
+   inläggstexterna på svenska.
 5. **Välj 6–10 klipp** ur `transcript.txt`:
    - 20–60 s, börjar och slutar på hel mening, begripligt utan sammanhang.
    - Krok i början: tydligt påstående, konkret tips, siffra eller rolig replik.
